@@ -20,10 +20,9 @@
 <div> 
   <a href="https://www.instagram.com/anetelless" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="anetelles@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+</div>
   
-  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-  
-  
+## 
  
 ![Snake animation](https://github.com/anetelles/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
