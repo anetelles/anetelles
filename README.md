@@ -25,6 +25,6 @@
   
 ## 
  
-![Snake animation](https://github.com/anetelles/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anetelles/blob/output/github-contribution-grid-snake.svg)
  
 </div>
