@@ -1,4 +1,4 @@
-### Olá, mundo! Eu sou a Ane.
+### Hello, world! Eu sou a Ane.
 
 - 🔭 Estou cursando TI.
 - 🌱 Tenho 22 anos.
