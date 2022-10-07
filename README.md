@@ -1,8 +1,8 @@
 ### Hello, world! Eu sou a Ane.
 
+- 💜 Desenvolvedora Front-end | Design Gráfico (Adobe Photoshop/Adobe Illustrator).
+- 🌱 Tenho 22 anos.
 - 🔭 Estou cursando TI.
-- 🌱 Tenho 22 anos. 
-- 💜 Front-end e Design Gráfico.
 
 <div align="center">
   <a href="https://github.com/anetelles">
