@@ -41,7 +41,7 @@
   <a href="https://open.spotify.com/playlist/286Kcgvw8EiCKKhcxVbpJ3?si=abde714b342a4f2e" target="_blank"><img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white target="_blank"></a>
   <a href="https://www.behance.net/cristianetelles" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://pin.it/3R1iseJ" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"target="_blank"></a> 
-   <a href="newmessegeto:anetellesprotonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"target="_blank"></a> 
+   <a href="mailto:anetellesprotonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"target="_blank"></a> 
 
   
   
