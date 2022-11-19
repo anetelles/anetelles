@@ -18,7 +18,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h3> Softwares e Frameworks: </h3>
+  <h3> Tools e Frameworks: </h3>
   <a href="https://github.com/anetelles?tab=repositories"><img align="center" alt="Ane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <img align="center" alt="Ane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ane-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">     
@@ -27,12 +27,7 @@
   <img align="center" alt="Ane-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Ane-Bootstrap" height="30" width="30" src="https://icongr.am/devicon/bootstrap-plain.svg?size=78&color=8a4ec6">
   <img align="center" alt="Ane-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg"> 
-  <img align="center" alt="Ane-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
-          
-          
-          
-          
+  <img align="center" alt="Ane-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">       
 </div>
 
 ##
