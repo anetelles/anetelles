@@ -2,9 +2,12 @@
 
 - Desenvolvedora Front-end.
 - Designer gráfico voltada para a área de criativos e id visuais.
-<br>
 
+##
 
+<div align="center">
+  <img alt="Ane-Readme-Streak" height="160em" src ="https://github-readme-streak-stats.herokuapp.com?user=anetelles&theme=dracula&hide_border=true&background=FFFFFF00">
+</div>
 
 <!--Height normal: 180em.-->
 
