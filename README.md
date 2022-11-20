@@ -5,6 +5,7 @@
 
 ##
 
+<h3> Github Streak e Stats: </h3>
 <div align="center">
   <img alt="Ane-Readme-Streak" height="160em" src ="https://github-readme-streak-stats.herokuapp.com?user=anetelles&theme=dracula&hide_border=true&background=FFFFFF00">
 </div>
