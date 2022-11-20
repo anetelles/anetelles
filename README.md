@@ -1,11 +1,8 @@
 ### Hello, world! Eu sou a Ane.
 
-- Desenvolvedora Front-end.
-- Designer gráfico voltada para a área de criativos e id visuais.
+<!-- - Desenvolvedora Front-end.
+- Designer gráfico voltada para a área de criativos e id visuais. -->
 
-##
-
-<h3> Github Streak e Stats: </h3>
 <div align="center">
   <img alt="Ane-Readme-Streak" height="160em" src ="https://github-readme-streak-stats.herokuapp.com?user=anetelles&theme=dracula&hide_border=true&background=FFFFFF00">
 </div>
@@ -19,7 +16,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h3> Tools e Frameworks: </h3>
+  <h3> Tools: </h3>
   <a href="https://github.com/anetelles?tab=repositories"><img align="center" alt="Ane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <img align="center" alt="Ane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ane-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">     
@@ -31,7 +28,7 @@
   <img align="center" alt="Ane-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">       
 </div>
 
-##
+
 
 <div> 
   <h3>Redes Socias e Contato:</h3>
