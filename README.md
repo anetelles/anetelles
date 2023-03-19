@@ -1,4 +1,4 @@
-###  Olá, mundo! Eu sou a Ane. / Hello, world! I'm Ane.
+###  Olá, mundo! Eu sou a Ane / Hello, world! I'm Ane
 
 <!-- - Desenvolvedora Front-end.
 - Designer gráfico voltada para a área de criativos e id visuais. -->
@@ -30,7 +30,7 @@
 
 
 <div> 
-  <h3>Redes Socias e Contato</h3>
+  <h3>Redes Socias e Contato / Social Media and Contact</h3>
   <a href="https://www.instagram.com/anetelless" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cristiane-telles-28a818231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
     <a href="mailto:anetellesprotonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"target="_blank"></a>
