@@ -1,4 +1,5 @@
 ### Olá, mundo! Eu sou a Ane.
+### Hello, world! I'm Ane.
 
 <!-- - Desenvolvedora Front-end.
 - Designer gráfico voltada para a área de criativos e id visuais. -->
