@@ -49,7 +49,7 @@
   
   
 </div>
-  
+  -->
 ## 
  
 ![Snake animation](https://github.com/anetelles/anetelles/blob/output/github-contribution-grid-snake.svg)
