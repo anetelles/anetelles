@@ -1,4 +1,4 @@
-###  Olá, mundo! Eu sou a Ane / Hello, world! I'm Ane
+###  Olá, mundo! Eu sou a Cristiane!
 
 <!-- - Desenvolvedora Front-end.
 - Designer gráfico voltada para a área de criativos e id visuais. -->
