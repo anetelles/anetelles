@@ -32,9 +32,8 @@
   <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img align="center" alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  <!--<img align="center" alt="Ane-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">       
+  <!--<img align="center" alt="Ane-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">-->     
 </div>
-
 
 <!--<div> 
   <h3>Redes Socias e Contato / Social Media and Contact</h3>
@@ -42,16 +41,11 @@
   <a href="https://www.linkedin.com/in/cristiane-telles-28a818231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
     <a href="mailto:anetellesprotonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"target="_blank"></a>
   <a href="mailto:anedsgn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a> 
-  <a href="https://www.behance.net/cristianetelles" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-
-   
-
-  
-  
+  <a href="https://www.behance.net/cristianetelles" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
 </div>
   -->
 ## 
  
-![Snake animation](https://github.com/anetelles/anetelles/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/anetelles/anetelles/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
